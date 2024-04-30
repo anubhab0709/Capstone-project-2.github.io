@@ -55,3 +55,11 @@
   font-style: italic;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+
+@media screen and (max-width :430px){
+  .mountain{
+    height: 200px;
+    width: 100%;
+  }
+}
